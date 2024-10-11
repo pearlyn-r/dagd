@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/dagd/dagd/mlruns/0/4fb5bc941eb949148c3d03e255041c5a/artifacts
+end_time: 1728619577529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fb5bc941eb949148c3d03e255041c5a
+run_name: secretive-trout-949
+run_uuid: 4fb5bc941eb949148c3d03e255041c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728619572688
+status: 3
+tags: []
+user_id: Asus

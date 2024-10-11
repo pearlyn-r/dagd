@@ -12,6 +12,8 @@ from mlflow.models import infer_signature
 import mlflow.sklearn
 
 import logging
+import dagshub
+dagshub.init(repo_owner='pearlyn-r', repo_name='dagd', mlflow=True)
 
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
